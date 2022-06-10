@@ -1,0 +1,5 @@
+type: PARQUET
+storage:
+  type: FILESYSTEM
+  config:
+    directory: /absolute/path/to/output/file.parquet
