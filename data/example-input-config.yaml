@@ -1,0 +1,6 @@
+type: remoteread
+endpoint: https://prometheus-k8s-openshift-monitoring.apps.playback-next.demo.red-chesterfield.com/api/v1/read
+config:
+  bearer_token: sha256~5jExXRtCcxwEBwOO8a9eb08SBhfTHDWAq2vpu1uJqLM
+  tls_config:
+    insecure_skip_verify: true
