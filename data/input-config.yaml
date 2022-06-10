@@ -1,4 +1,0 @@
-type: remoteread
-endpoint: http://demo.robustperception.io:9090/api/v1/read
-tls_config:
-  insecure_skip_verify: true

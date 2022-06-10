@@ -1,5 +1,0 @@
-type: PARQUET
-storage:
-  type: FILESYSTEM
-  config:
-    directory: /Users/btroutma/Documents/repos/out.parquet
