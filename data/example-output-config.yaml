@@ -1,0 +1,5 @@
+type: PARQUET
+storage:
+  type: FILESYSTEM
+  config:
+    directory: /usr/src/io/out.parquet

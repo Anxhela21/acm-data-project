@@ -1,2 +1,4 @@
 *.key
+input-config.yaml
+storage-config.yaml
 
