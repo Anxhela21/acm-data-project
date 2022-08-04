@@ -14,7 +14,7 @@ python3 -m pip install prometheus-api-client
 
 ## Data Analytics
 
-The above notebooks are trying to understand different metrics that are pulled from prometheus, finding any patterns in the cluster metric usage and also label abnormal cluster usage as an anomaly.
+The above notebooks are trying to understand different metrics that are pulled from prometheus, finding any patterns in the cluster metric usage and also label abnormal cluster usage as an anomaly. Each individual notebook have sufficient markdowns explaining the cells.
 
 time_series_analysis.ipynb -- This notebook is experimenting all the statistiscal arima models inorder to understand timeseries forecasting 
 
